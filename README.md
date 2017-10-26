@@ -19,10 +19,8 @@ mocha
 ```json
 [
     { "id": "highWall", "address": "金大", "phone": "0987487987" ,"open_hours":"0~24"},
-    { "id": "address", "address": "成大", "phone": "0912345678" ,
-    "open_hours":"12~24"}
+    { "id": "address", "address": "成大", "phone": "0912345678" ,"open_hours":"12~24"}
 ]
 ```
 此時若輸入highwall會取得 金大，0987487987，0~24
-```
 
