@@ -1,5 +1,5 @@
 {
-  "name": "gmaps",
+  "name": "gmaps-test",
   "version": "0.1.0",
   "description": "Search and get place details, then navigate to the destination.",
   "main": "lib/model.js",
