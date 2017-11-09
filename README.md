@@ -24,3 +24,5 @@ mocha
 ```
 此時若輸入`highwall`會取得`金大，0987487987，0~24`
 
+# npm 套件網址
+[gmaps-test](https://www.npmjs.com/package/gmaps-test)
